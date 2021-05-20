@@ -19,7 +19,7 @@ const Features = () => {
           </div>
         </div>
         <div className={styles.column}>
-          <img src="/server.png"></img>
+          <img src="/Server.png"></img>
           <div className={styles["text-col"]}>
             <h1>50+</h1>
             <p>Servers</p>

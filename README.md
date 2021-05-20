@@ -1,4 +1,4 @@
-This is a simple adaptive dekstop landing page
+# This is a simple adaptive dekstop landing page
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
@@ -30,4 +30,4 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Go Check It Out
 
-I already deploy it in Heroku [LaslesVPN]()
+I already deploy it in Heroku [LaslesVPN](https://laslessvpn.herokuapp.com/)
